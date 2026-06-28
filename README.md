@@ -1,38 +1,20 @@
-# lca-cooking-masterclass-catalogue
+# cooking-masterclass-catalogue
 
-This template should help get you started developing with Vue 3 in Vite.
+This project shows a cooking class catalog with course cards and chef details.
 
-## Recommended IDE Setup
+## How to use
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+1. Create a public GitHub repository named `cooking-masterclass-catalogue`.
+2. Push all project files to that repository.
+3. Submit the repository link before the deadline.
 
-## Recommended Browser Setup
+## Run the project
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+Open a terminal in the project folder and run:
 
 ```sh
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Then open the local web address shown in the terminal.
