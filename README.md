@@ -6,7 +6,7 @@ This project shows a cooking class catalog with course cards and chef details.
 
 1. Create a public GitHub repository named `cooking-masterclass-catalogue`.
 2. Push all project files to that repository.
-3. Submit the repository link before the deadline.
+3. Here is the link : https://leratoyapi.github.io/lca-vue-practice-projects/
 
 ## Run the project
 
