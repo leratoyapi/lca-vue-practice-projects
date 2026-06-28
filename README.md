@@ -4,17 +4,15 @@ This project shows a cooking class catalog with course cards and chef details.
 
 ## How to use
 
-1. Create a public GitHub repository named `cooking-masterclass-catalogue`.
-2. Push all project files to that repository.
-3. Here is the link : https://leratoyapi.github.io/lca-vue-practice-projects/
+## 🚀 Live Demo
 
-## Run the project
+> Not hosted online – run locally.
 
-Open a terminal in the project folder and run:
+---
 
-```sh
-npm install
-npm run dev
-```
+## 🛠️ Installation & Setup
 
-Then open the local web address shown in the terminal.
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/leratoyapi/lca-vue-practice-projects/tree/project-2-food-fest-ticket
+
